@@ -7,19 +7,19 @@ There are many open-source databases out there, like AbuseIPDB, and Cisco Talos 
 ### Security Operations Centre (SOC)
 Team that monitors the network and its systems to detect maliious cybersec events. Main areas are e.g. 
 
-Trends & vulnerability awareness
-Policy violations
-Unauthorised & illegal activity
-Intrusion & breach detection
+- Trends & vulnerability awareness
+- Policy violations
+- Unauthorised & illegal activity
+- Intrusion & breach detection
 
 
 ### Digital Forensics 
 Is the application of traditional forensic science processes to digital devices. E.g. 
 
-File system
-System memory
-System logs 
-Network logs
+- File system
+- System memory
+- System logs 
+- Network logs
 
 
 ### Incident Response 
@@ -34,10 +34,10 @@ ss (socket statistics) is replacing netstat in Linux
 
 ### Useful search engine filters
 For google:
-Use "exact phrase" to search for exact phrase
-Use site: to search for results in specific site i.e. site:reddit.com cybersec
-Use -, the minus sign to omit search results containing a particular word/phrase
-Use filetype: to find for files instead of pages, such as PDF, DOC, XLS and PPT i.e. filetype:pdf [your favourite book]
+- Use "exact phrase" to search for exact phrase
+- Use site: to search for results in specific site i.e. site:reddit.com cybersec
+- Use -, the minus sign to omit search results containing a particular word/phrase
+- Use filetype: to find for files instead of pages, such as PDF, DOC, XLS and PPT i.e. filetype:pdf [your favourite book]
 
 ### Specialized search engines
 https://www.shodan.io/, a search engine for devices connected to the internet
